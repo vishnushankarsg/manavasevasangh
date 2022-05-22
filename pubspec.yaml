@@ -1,0 +1,57 @@
+name: manavasevasangh
+description: The Complete Seva Sangh App
+
+publish_to: "none" 
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.11.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_launcher_icons: ^0.9.0
+
+  #state management
+  flutter_bloc: ^6.0.5
+  equatable: ^1.2.5
+
+  #splash screen
+  flutter_native_splash: ^1.1.7+1
+
+  #widget Ui
+  cupertino_icons: ^1.0.2
+  curved_navigation_bar: ^0.3.7
+  flutter_switch: ^0.3.0
+  image_picker: ^0.7.4
+
+  firebase_core:
+
+  get_it:
+  responsive_builder:
+  pin_code_fields:
+
+
+  intl:
+  # firebase_analytics: "^8.0.0-dev.0"
+
+  firebase_auth: ^1.0.3
+  cloud_firestore: ^1.0.4
+  firebase_storage: ^8.0.3
+  country_pickers: ^2.0.0
+
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/logo.png"
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  
