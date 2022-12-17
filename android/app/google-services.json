@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "107514622020",
+    "project_id": "manavasevasangh",
+    "storage_bucket": "manavasevasangh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107514622020:android:b2db535154313f2ad30c11",
+        "android_client_info": {
+          "package_name": "com.app.manavasevasangh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107514622020-8cl5f865a7g0fqadqe8sp3mb5jaq1sjs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.manavasevasangh",
+            "certificate_hash": "5c04b418361caae16cc447b2638a41ceaba2030b"
+          }
+        },
+        {
+          "client_id": "107514622020-vr9od28osk1utt8547usgh24f85kcn8m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8hr7aLppIHlf9lI8G3sEKMIgp2GXtNnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107514622020-vr9od28osk1utt8547usgh24f85kcn8m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "107514622020-0uv4m3omdfmr8aus1btuqci6rcacffjk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.manava.sevasangh"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
